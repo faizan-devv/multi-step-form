@@ -1,0 +1,2366 @@
+{
+  "continents": {
+    "Asia": {
+      "countries": {
+        "Pakistan": {
+          "states": {
+            "Punjab": {
+              "cities": {
+                "Rawalpindi": {
+                  "Areas": [
+                    "Banni",
+                    "Shabir Lane",
+                    "Gawalmandi",
+                    "Liaqat Bagh",
+                    "Tench Bhata"
+                  ]
+                },
+                "Lahore": {
+                  "Areas": [
+                    "Kot Begum",
+                    "Kot Mohibbu",
+                    "Azizabad ",
+                    "Faisal Bagh",
+                    "Dhair"
+                  ]
+                },
+                "Sialkot": {
+                  "Areas": [
+                    "Zafarwal",
+                    " Raya",
+                    "Pasrur",
+                    "Jamki",
+                    "Kila Sobha Singh"
+                  ]
+                },
+                "Multan": {
+                  "Areas": [
+                    "Bosan Town",
+                    "Shah Rukn-e-alam Town",
+                    "Sujaabad Town",
+                    "Sher Shah Town",
+                    "Jalapur Pirwala Town"
+                  ]
+                },
+                "Bhawalpur": {
+                  "Areas": [
+                    "Uch Sharif",
+                    "Lodhran",
+                    "Kharor Pakka",
+                    "Khairpur Tamewali",
+                    "Qaimpur"
+                  ]
+                }
+              }
+            },
+            "Sindh": {
+              "cities": {
+                "Karachi": {
+                  "Areas": ["Baldia", "Korangi", "Jamshed", "Gulberg", "Kemari"]
+                },
+                "Hyderabad": {
+                  "Areas": [
+                    "Shora Goth",
+                    "Kira Kahan Solangi",
+                    "Shahi Bazar",
+                    "Doctor Coloney",
+                    "Tando Jahanian"
+                  ]
+                },
+                "Larkana": {
+                  "Areas": [
+                    "jara wah",
+                    "zaman goth",
+                    "Mahar Wada",
+                    "Relan",
+                    "Ali Goharabad"
+                  ]
+                },
+                "Sukkur": {
+                  "Areas": [
+                    "Rohri",
+                    "New Sukkur",
+                    "Saleh Pat",
+                    "Sukkur City",
+                    "Pano Aqil"
+                  ]
+                },
+                "Jacoabad": {
+                  "Areas": [
+                    "Talukas",
+                    "Garhi khairo",
+                    "Thul",
+                    "Kandhkote",
+                    "Kashmore"
+                  ]
+                }
+              }
+            },
+            "Balochistan": {
+              "cities": {
+                "Quetta": {
+                  "Areas": ["kawas", "Manna ", "Ziarat", "Kuchlak", "Dagari"]
+                },
+                "Gawadar": {
+                  "Areas": [
+                    "Gawadar Beach",
+                    "JanAbad",
+                    "Shambe Ismail",
+                    "High Rise Commercial Zone",
+                    "Finance Trade Business Avenue"
+                  ]
+                },
+                "Chaman": {
+                  "Areas": [
+                    "Lalbeg",
+                    "Kili Mahbub",
+                    "Askan Mandau",
+                    "Killi Abdul Rahim",
+                    "Killi Malik Ghulam Jilani"
+                  ]
+                },
+                "zhob": {
+                  "Areas": [
+                    "Wana Road",
+                    "Zhob Lodges",
+                    "Appozai Road",
+                    "New Zhob salami",
+                    "Kisa"
+                  ]
+                },
+                "Sibi": {
+                  "Areas": [
+                    "Dehpal",
+                    "Gulshan Coloney",
+                    "Mir Chakir Road",
+                    "Sibi Cantonment",
+                    "Sibi Ijtema ghaa"
+                  ]
+                }
+              }
+            },
+            "Khyber Pukhtoon Khuwa": {
+              "cities": {
+                "Peshawar": {
+                  "Areas": [
+                    "Chamkani",
+                    "Shah Alam ",
+                    "Mathra",
+                    "Badbher",
+                    "Peshtakhara"
+                  ]
+                },
+                "Mardan": {
+                  "Areas": [
+                    "Ghaznavi Coloney",
+                    "Guli Bagh",
+                    "Korangh",
+                    "Jan Abad",
+                    "Baghdada"
+                  ]
+                },
+                "Abbotabad": {
+                  "Areas": [
+                    "Habib Ullah Coloney",
+                    "Mochi Coloney",
+                    "Gansen-ji",
+                    "Bilal Town",
+                    "Jinnahabad"
+                  ]
+                },
+                "Kohat": {
+                  "Areas": [
+                    "Bahadar Kot",
+                    "Happy Valley",
+                    "Jangal Khel",
+                    "MainKhel Bazar",
+                    "Sabzi Mandi"
+                  ]
+                },
+                "Dera Ismail Khan": {
+                  "Areas": [
+                    "Hanif Town",
+                    "Basti Maheer",
+                    "Imamia Coloney",
+                    "Laghari Gate",
+                    "Hathee Park"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "Japan": {
+          "states": {
+            "Fukushima": {
+              "cities": {
+                "Aizuwakamatsu": {
+                  "Areas": [
+                    "Wakamatsu",
+                    "Machikita",
+                    "Kouya",
+                    "Kouzashi",
+                    "Monden"
+                  ]
+                },
+                "Date": {
+                  "Areas": [
+                    "Hobara",
+                    "Yanagawa",
+                    "Tsukidate",
+                    "Ryōzen",
+                    "Marumori"
+                  ]
+                },
+                "Iwaki": {
+                  "Areas": ["Taira", "Ogawa", "Yoshima", "Tabito", "Kawamae"]
+                },
+                "Kōriyama": {
+                  "Areas": ["Tohku", "Abukuma", "Banestu", "Suigun", "Yatagawa"]
+                },
+                "Fukushima (city)": {
+                  "Areas": [
+                    "MT Azuma",
+                    "Sakura",
+                    "Takyu Onsen",
+                    "Iwakai",
+                    "Sendai"
+                  ]
+                }
+              }
+            },
+            "Osaka": {
+              "cities": {
+                "Daito": {
+                  "Areas": [
+                    "Shijonawate-shi",
+                    "Daito-shi ",
+                    "Takyu Onsen",
+                    "IaKoma",
+                    "Sominodo"
+                  ]
+                },
+                "Hanan": {
+                  "Areas": [
+                    "Ozaki",
+                    "Tottorinosho",
+                    "Hakotsukuri",
+                    "Izumi-Tottori",
+                    "Yamanakadani"
+                  ]
+                },
+                "Kadoma": {
+                  "Areas": [
+                    "Kaihan",
+                    "Kayashima",
+                    "Furkawabashi",
+                    "Nagahori",
+                    "Kadomaminami"
+                  ]
+                },
+                "Kishiwada": {
+                  "Areas": [
+                    "Koko-Gawa",
+                    "Senko-ji",
+                    "Kumeda",
+                    "Haruki",
+                    "Takojizo"
+                  ]
+                }
+              }
+            },
+            "Hiroshima": {
+              "cities": {
+                "Akitakata": {
+                  "Areas": [
+                    "Koda",
+                    "Midori ",
+                    "Mukaihara",
+                    "Youshida",
+                    "Yachiyo"
+                  ]
+                },
+                "Hatsukaichi": {
+                  "Areas": ["Ono", "Miyajima", "Hiroden", "Miyajima", "Gujo"]
+                },
+                "Kure": {
+                  "Areas": [
+                    "Sannose ",
+                    "Kurahashi-cho",
+                    "Nagasako",
+                    "Romantic Beach Karuga",
+                    "Kajigahama Beach"
+                  ]
+                },
+                "Miyoshi": {
+                  "Areas": ["Funo", "Kimita", "Sakugi", "Kou", "Kisa"]
+                },
+                "Ōtake": {
+                  "Areas": [
+                    "yasaka-kyo",
+                    "Jayaku-iwa",
+                    "Atata-jima",
+                    "Mikura-dake",
+                    "Mikura-da"
+                  ]
+                }
+              }
+            },
+            "Gifu": {
+              "cities": {
+                "Mizuho": {
+                  "Areas": [
+                    "Nagara river",
+                    "Yokoya ",
+                    "Tarumi",
+                    "Meiji",
+                    "Tokaido"
+                  ]
+                },
+                "Hashima": {
+                  "Areas": [
+                    "Tokaido",
+                    "Takenohana ",
+                    "Hiroden",
+                    "Miyajima",
+                    "Gujo"
+                  ]
+                },
+                "Mizunami": {
+                  "Areas": ["Kiso ", "Toki", "Chuo", "Cuhkyo", "Kajigahama"]
+                },
+                "Tajimi": {
+                  "Areas": [
+                    "Ohara",
+                    "Tenreyo",
+                    "Koizimi",
+                    "Ichinokura",
+                    "Ikeda"
+                  ]
+                },
+                "Kakamigahara": {
+                  "Areas": ["Tokai", "Nakanihon", "Chubu", "Eisia", "Mikura-da"]
+                }
+              }
+            },
+            "Koyoto": {
+              "cities": {
+                "Ayabe": {
+                  "Areas": [
+                    "Omoto",
+                    "Kanbayashi ",
+                    "Gunze",
+                    "Changshu",
+                    "Sominodo"
+                  ]
+                },
+                "Fukuchiyama": {
+                  "Areas": ["Miki", "Yanko", "Kasa", "Sanin", "Gujo"]
+                },
+                "Kizugawa": {
+                  "Areas": [
+                    "Jori-ji",
+                    "Kizu",
+                    "Gansen-ji",
+                    "Kuni-Kyo",
+                    "kaniman"
+                  ]
+                },
+                "Muko": {
+                  "Areas": [
+                    "Kan Muyu",
+                    "Heijo - kyo",
+                    "Higashimuko",
+                    "Hano",
+                    "Takojizo"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Africa": {
+      "countries": {
+        "Egypt": {
+          "states": {
+            "Aswan": {
+              "cities": {
+                "Aswan": {
+                  "Areas": [
+                    "El-Shaikh El-Shafei",
+                    "Kasr Al Hager",
+                    "Al Anai",
+                    "Sok Al Khamies",
+                    "Talat Harb"
+                  ]
+                },
+                "Edfu": {
+                  "Areas": [
+                    "Baksear",
+                    "Sangk",
+                    "Al Mabed ",
+                    "El Gaish",
+                    "Hasan Kassim"
+                  ]
+                },
+                "Kom Umbu": {
+                  "Areas": [
+                    "Sabry",
+                    " Ragaei",
+                    "Om Sabir",
+                    "Shabrawyy",
+                    "Gamal Al zahabi"
+                  ]
+                },
+                "As Sibaiyyah": {
+                  "Areas": [
+                    "Naga Al Shamnay kha",
+                    "Aswan Al Jazat",
+                    "Aswan Al jazwari"
+                  ]
+                },
+                "New Kalabasha": {
+                  "Areas": [
+                    "Beit el-Wali",
+                    "Kalabsha Temple",
+                    "Kiosk of Qertassi",
+                    "Khairpur Tamewali"
+                  ]
+                }
+              }
+            },
+            "Giza": {
+              "cities": {
+                "El Ayyat": {
+                  "Areas": ["kawas", "Manna ", "Ziarat", "Kuchlak", "Dagari"]
+                },
+                "Dokki": {
+                  "Areas": [
+                    "Gawadar Beach",
+                    "JanAbad",
+                    "Shambe Ismail",
+                    "High Rise Commercial Zone",
+                    "Finance Trade Business Avenue"
+                  ]
+                },
+                "El Saff": {
+                  "Areas": [
+                    "Lalbeg",
+                    "Kili Mahbub",
+                    "Askan Mandau",
+                    "Killi Abdul Rahim",
+                    "Killi Malik Ghulam Jilani"
+                  ]
+                },
+                "Zamalek": {
+                  "Areas": [
+                    "Wana Road",
+                    "Zhob Lodges",
+                    "Appozai Road",
+                    "New Zhob salami",
+                    "Kisa"
+                  ]
+                },
+                "Zeitoun": {
+                  "Areas": [
+                    "Dehpal",
+                    "Gulshan Coloney",
+                    "Mir Chakir Road",
+                    "Sibi Cantonment",
+                    "Sibi Ijtema ghaa"
+                  ]
+                }
+              }
+            },
+            "Alexandria": {
+              "cities": {
+                "Dekhela": {
+                  "Areas": ["Baldia", "Korangi", "Jamshed", "Gulberg", "Kemari"]
+                },
+                "Ataren": {
+                  "Areas": [
+                    "Shora Goth",
+                    "Kira Kahan Solangi",
+                    "Shahi Bazar",
+                    "Doctor Coloney",
+                    "Tando Jahanian"
+                  ]
+                },
+                "Labban": {
+                  "Areas": [
+                    "jara wah",
+                    "zaman goth",
+                    "Mahar Wada",
+                    "Relan",
+                    "Ali Goharabad"
+                  ]
+                },
+                "Montaza 2": {
+                  "Areas": [
+                    "Rohri",
+                    "New Sukkur",
+                    "Saleh Pat",
+                    "Sukkur City",
+                    "Pano Aqil"
+                  ]
+                },
+                "Karmouz": {
+                  "Areas": [
+                    "Talukas",
+                    "Garhi khairo",
+                    "Thul",
+                    "Kandhkote",
+                    "Kashmore"
+                  ]
+                }
+              }
+            },
+            "Ciaro": {
+              "cities": {
+                "Ain Shams": {
+                  "Areas": [
+                    "Chamkani",
+                    "Shah Alam ",
+                    "Mathra",
+                    "Badbher",
+                    "Peshtakhara"
+                  ]
+                },
+                "Amreya": {
+                  "Areas": [
+                    "Ghaznavi Coloney",
+                    "Guli Bagh",
+                    "Korangh",
+                    "Jan Abad",
+                    "Baghdada"
+                  ]
+                },
+                "El Basatin": {
+                  "Areas": [
+                    "Habib Ullah Coloney",
+                    "Mochi Coloney",
+                    "Gansen-ji",
+                    "Bilal Town",
+                    "Jinnahabad"
+                  ]
+                },
+                "Maadi": {
+                  "Areas": [
+                    "Bahadar Kot",
+                    "Happy Valley",
+                    "Jangal Khel",
+                    "MainKhel Bazar",
+                    "Sabzi Mandi"
+                  ]
+                },
+                "Zamalek": {
+                  "Areas": [
+                    "Hanif Town",
+                    "Basti Maheer",
+                    "Imamia Coloney",
+                    "Laghari Gate",
+                    "Hathee Park"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "South Africa": {
+          "states": {
+            "Eastern Cape": {
+              "cities": {
+                "East London": {
+                  "Areas": [
+                    "Wakamatsu",
+                    "Machikita",
+                    "Kouya",
+                    "Kouzashi",
+                    "Monden"
+                  ]
+                },
+                "Port Elizabeth": {
+                  "Areas": [
+                    "Hobara",
+                    "Yanagawa",
+                    "Tsukidate",
+                    "Ryōzen",
+                    "Marumori"
+                  ]
+                },
+                "Cradock": {
+                  "Areas": ["Taira", "Ogawa", "Yoshima", "Tabito", "Kawamae"]
+                },
+                "Port Alferd": {
+                  "Areas": ["Tohku", "Abukuma", "Banestu", "Suigun", "Yatagawa"]
+                },
+                "Kouga": {
+                  "Areas": [
+                    "MT Azuma",
+                    "Sakura",
+                    "Takyu Onsen",
+                    "Iwakai",
+                    "Sendai"
+                  ]
+                }
+              }
+            },
+            "Limpopo": {
+              "cities": {
+                "Mopani": {
+                  "Areas": [
+                    "Shijonawate-shi",
+                    "Daito-shi ",
+                    "Takyu Onsen",
+                    "IaKoma",
+                    "Sominodo"
+                  ]
+                },
+                "Vhembe": {
+                  "Areas": [
+                    "Ozaki",
+                    "Tottorinosho",
+                    "Hakotsukuri",
+                    "Izumi-Tottori",
+                    "Yamanakadani"
+                  ]
+                },
+                "Waterberg": {
+                  "Areas": [
+                    "Kaihan",
+                    "Kayashima",
+                    "Furkawabashi",
+                    "Nagahori",
+                    "Kadomaminami"
+                  ]
+                },
+                "Sekhuhune": {
+                  "Areas": [
+                    "Koko-Gawa",
+                    "Senko-ji",
+                    "Kumeda",
+                    "Haruki",
+                    "Takojizo"
+                  ]
+                },
+                "Capricorn": {
+                  "Areas": [
+                    "Koko-Gawa",
+                    "Senko-ji",
+                    "Kumeda",
+                    "Haruki",
+                    "Takojizo"
+                  ]
+                }
+              }
+            },
+            "North West": {
+              "cities": {
+                "Klerkdrop": {
+                  "Areas": [
+                    "Koda",
+                    "Midori ",
+                    "Mukaihara",
+                    "Youshida",
+                    "Yachiyo"
+                  ]
+                },
+                "Rustenburg": {
+                  "Areas": ["Ono", "Miyajima", "Hiroden", "Miyajima", "Gujo"]
+                },
+                "Brits": {
+                  "Areas": [
+                    "Sannose ",
+                    "Kurahashi-cho",
+                    "Nagasako",
+                    "Romantic Beach Karuga",
+                    "Kajigahama Beach"
+                  ]
+                },
+                "Orkney": {
+                  "Areas": ["Funo", "Kimita", "Sakugi", "Kou", "Kisa"]
+                },
+                "Lichtenberg": {
+                  "Areas": [
+                    "yasaka-kyo",
+                    "Jayaku-iwa",
+                    "Atata-jima",
+                    "Mikura-dake",
+                    "Mikura-da"
+                  ]
+                }
+              }
+            },
+            "North Cape": {
+              "cities": {
+                "Douglas": {
+                  "Areas": [
+                    "Nagara river",
+                    "Yokoya ",
+                    "Tarumi",
+                    "Meiji",
+                    "Tokaido"
+                  ]
+                },
+                "De Aar": {
+                  "Areas": [
+                    "Tokaido",
+                    "Takenohana ",
+                    "Hiroden",
+                    "Miyajima",
+                    "Gujo"
+                  ]
+                },
+                "Orania": {
+                  "Areas": ["Kiso ", "Toki", "Chuo", "Cuhkyo", "Kajigahama"]
+                },
+                "Warrenton": {
+                  "Areas": [
+                    "Ohara",
+                    "Tenreyo",
+                    "Koizimi",
+                    "Ichinokura",
+                    "Ikeda"
+                  ]
+                },
+                "Prieska": {
+                  "Areas": ["Tokai", "Nakanihon", "Chubu", "Eisia", "Mikura-da"]
+                }
+              }
+            },
+            "Mpumalanga": {
+              "cities": {
+                "Ehlanzeni": {
+                  "Areas": [
+                    "Omoto",
+                    "Kanbayashi ",
+                    "Gunze",
+                    "Changshu",
+                    "Sominodo"
+                  ]
+                },
+                "Gert Sibande": {
+                  "Areas": ["Miki", "Yanko", "Kasa", "Sanin", "Gujo"]
+                },
+                "Nkangala": {
+                  "Areas": [
+                    "Jori-ji",
+                    "Kizu",
+                    "Gansen-ji",
+                    "Kuni-Kyo",
+                    "kaniman"
+                  ]
+                },
+                "Delmas": {
+                  "Areas": [
+                    "Kan Muyu",
+                    "Heijo - kyo",
+                    "Higashimuko",
+                    "Hano",
+                    "Takojizo"
+                  ]
+                },
+                "Lekwa": {
+                  "Areas": [
+                    "Kan Muyu",
+                    "Heijo - kyo",
+                    "Higashimuko",
+                    "Hano",
+                    "Takojizo"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Oceania": {
+      "countries": {
+        "Australia": {
+          "states": {
+            "New South Wales": {
+              "cities": {
+                "Greater Sydney": {
+                  "Areas": [
+                    "El-Shaikh El-Shafei",
+                    "Kasr Al Hager",
+                    "Al Anai",
+                    "Sok Al Khamies",
+                    "Talat Harb"
+                  ]
+                },
+                "New England and North West": {
+                  "Areas": [
+                    "Baksear",
+                    "Sangk",
+                    "Al Mabed ",
+                    "El Gaish",
+                    "Hasan Kassim"
+                  ]
+                },
+                "Riverina": {
+                  "Areas": [
+                    "Sabry",
+                    " Ragaei",
+                    "Om Sabir",
+                    "Shabrawyy",
+                    "Gamal Al zahabi"
+                  ]
+                },
+                "Muray": {
+                  "Areas": [
+                    "Naga Al Shamnay kha",
+                    "Aswan Al Jazat",
+                    "Aswan Al jazwari"
+                  ]
+                },
+                "Coffs Harbour-Grafton": {
+                  "Areas": [
+                    "Beit el-Wali",
+                    "Kalabsha Temple",
+                    "Kiosk of Qertassi",
+                    "Khairpur Tamewali"
+                  ]
+                }
+              }
+            },
+            "Queensland": {
+              "cities": {
+                "Brisbane": {
+                  "Areas": ["kawas", "Manna ", "Ziarat", "Kuchlak", "Dagari"]
+                },
+                "Bundaberg": {
+                  "Areas": [
+                    "Gawadar Beach",
+                    "JanAbad",
+                    "Shambe Ismail",
+                    "High Rise Commercial Zone",
+                    "Finance Trade Business Avenue"
+                  ]
+                },
+                "Mackay": {
+                  "Areas": [
+                    "Lalbeg",
+                    "Kili Mahbub",
+                    "Askan Mandau",
+                    "Killi Abdul Rahim",
+                    "Killi Malik Ghulam Jilani"
+                  ]
+                },
+                "Rockhampton": {
+                  "Areas": [
+                    "Wana Road",
+                    "Zhob Lodges",
+                    "Appozai Road",
+                    "New Zhob salami",
+                    "Kisa"
+                  ]
+                },
+                "Hervey Bay": {
+                  "Areas": [
+                    "Dehpal",
+                    "Gulshan Coloney",
+                    "Mir Chakir Road",
+                    "Sibi Cantonment",
+                    "Sibi Ijtema ghaa"
+                  ]
+                }
+              }
+            },
+            "South Australia": {
+              "cities": {
+                "Adelaide": {
+                  "Areas": ["Baldia", "Korangi", "Jamshed", "Gulberg", "Kemari"]
+                },
+                "Port Augusta": {
+                  "Areas": [
+                    "Shora Goth",
+                    "Kira Kahan Solangi",
+                    "Shahi Bazar",
+                    "Doctor Coloney",
+                    "Tando Jahanian"
+                  ]
+                },
+                "Victor Harbor": {
+                  "Areas": [
+                    "jara wah",
+                    "zaman goth",
+                    "Mahar Wada",
+                    "Relan",
+                    "Ali Goharabad"
+                  ]
+                },
+                "Whyalla": {
+                  "Areas": [
+                    "Rohri",
+                    "New Sukkur",
+                    "Saleh Pat",
+                    "Sukkur City",
+                    "Pano Aqil"
+                  ]
+                },
+                "Coober Pedy": {
+                  "Areas": [
+                    "Talukas",
+                    "Garhi khairo",
+                    "Thul",
+                    "Kandhkote",
+                    "Kashmore"
+                  ]
+                }
+              }
+            },
+            "Tasmania": {
+              "cities": {
+                "Hobart": {
+                  "Areas": [
+                    "Chamkani",
+                    "Shah Alam ",
+                    "Mathra",
+                    "Badbher",
+                    "Peshtakhara"
+                  ]
+                },
+                "Launceston": {
+                  "Areas": [
+                    "Ghaznavi Coloney",
+                    "Guli Bagh",
+                    "Korangh",
+                    "Jan Abad",
+                    "Baghdada"
+                  ]
+                },
+                "Ulverstone": {
+                  "Areas": [
+                    "Habib Ullah Coloney",
+                    "Mochi Coloney",
+                    "Gansen-ji",
+                    "Bilal Town",
+                    "Jinnahabad"
+                  ]
+                },
+                "Evandale": {
+                  "Areas": [
+                    "Bahadar Kot",
+                    "Happy Valley",
+                    "Jangal Khel",
+                    "MainKhel Bazar",
+                    "Sabzi Mandi"
+                  ]
+                },
+                "George Town": {
+                  "Areas": [
+                    "Hanif Town",
+                    "Basti Maheer",
+                    "Imamia Coloney",
+                    "Laghari Gate",
+                    "Hathee Park"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "New Zealand": {
+          "states": {
+            "Northland": {
+              "cities": {
+                "Kerikeri": {
+                  "Areas": [
+                    "Wakamatsu",
+                    "Machikita",
+                    "Kouya",
+                    "Kouzashi",
+                    "Monden"
+                  ]
+                },
+                "Wahangarei": {
+                  "Areas": [
+                    "Hobara",
+                    "Yanagawa",
+                    "Tsukidate",
+                    "Ryōzen",
+                    "Marumori"
+                  ]
+                },
+                "Waipu": {
+                  "Areas": ["Taira", "Ogawa", "Yoshima", "Tabito", "Kawamae"]
+                },
+                "Dargaville": {
+                  "Areas": ["Tohku", "Abukuma", "Banestu", "Suigun", "Yatagawa"]
+                },
+                "Mangawhai": {
+                  "Areas": [
+                    "MT Azuma",
+                    "Sakura",
+                    "Takyu Onsen",
+                    "Iwakai",
+                    "Sendai"
+                  ]
+                }
+              }
+            },
+            "Auckland": {
+              "cities": {
+                "Waiuku": {
+                  "Areas": [
+                    "Shijonawate-shi",
+                    "Daito-shi ",
+                    "Takyu Onsen",
+                    "IaKoma",
+                    "Sominodo"
+                  ]
+                },
+                "Warkworth": {
+                  "Areas": [
+                    "Ozaki",
+                    "Tottorinosho",
+                    "Hakotsukuri",
+                    "Izumi-Tottori",
+                    "Yamanakadani"
+                  ]
+                },
+                "Parakai": {
+                  "Areas": [
+                    "Kaihan",
+                    "Kayashima",
+                    "Furkawabashi",
+                    "Nagahori",
+                    "Kadomaminami"
+                  ]
+                },
+                "Maraetai": {
+                  "Areas": [
+                    "Koko-Gawa",
+                    "Senko-ji",
+                    "Kumeda",
+                    "Haruki",
+                    "Takojizo"
+                  ]
+                },
+                "Helensville": {
+                  "Areas": [
+                    "Koko-Gawa",
+                    "Senko-ji",
+                    "Kumeda",
+                    "Haruki",
+                    "Takojizo"
+                  ]
+                }
+              }
+            },
+            "Marlborough": {
+              "cities": {
+                "Picton": {
+                  "Areas": [
+                    "Koda",
+                    "Midori ",
+                    "Mukaihara",
+                    "Youshida",
+                    "Yachiyo"
+                  ]
+                },
+                "Blenheim": {
+                  "Areas": ["Ono", "Miyajima", "Hiroden", "Miyajima", "Gujo"]
+                },
+                "Havelock": {
+                  "Areas": [
+                    "Sannose ",
+                    "Kurahashi-cho",
+                    "Nagasako",
+                    "Romantic Beach Karuga",
+                    "Kajigahama Beach"
+                  ]
+                },
+                "Rai Valley": {
+                  "Areas": ["Funo", "Kimita", "Sakugi", "Kou", "Kisa"]
+                },
+                "Seddon": {
+                  "Areas": [
+                    "yasaka-kyo",
+                    "Jayaku-iwa",
+                    "Atata-jima",
+                    "Mikura-dake",
+                    "Mikura-da"
+                  ]
+                }
+              }
+            },
+            "Tasman": {
+              "cities": {
+                "Nelson": {
+                  "Areas": [
+                    "Nagara river",
+                    "Yokoya ",
+                    "Tarumi",
+                    "Meiji",
+                    "Tokaido"
+                  ]
+                },
+                "Motueka": {
+                  "Areas": [
+                    "Tokaido",
+                    "Takenohana ",
+                    "Hiroden",
+                    "Miyajima",
+                    "Gujo"
+                  ]
+                },
+                "Collingwood": {
+                  "Areas": ["Kiso ", "Toki", "Chuo", "Cuhkyo", "Kajigahama"]
+                },
+                "Upper Moutere": {
+                  "Areas": [
+                    "Ohara",
+                    "Tenreyo",
+                    "Koizimi",
+                    "Ichinokura",
+                    "Ikeda"
+                  ]
+                },
+                "Mapua": {
+                  "Areas": ["Tokai", "Nakanihon", "Chubu", "Eisia", "Mikura-da"]
+                }
+              }
+            },
+            "Canterbury": {
+              "cities": {
+                "Christchurch": {
+                  "Areas": [
+                    "Omoto",
+                    "Kanbayashi ",
+                    "Gunze",
+                    "Changshu",
+                    "Sominodo"
+                  ]
+                },
+                "Lincoln": {
+                  "Areas": ["Miki", "Yanko", "Kasa", "Sanin", "Gujo"]
+                },
+                "Hanmer Springs": {
+                  "Areas": [
+                    "Jori-ji",
+                    "Kizu",
+                    "Gansen-ji",
+                    "Kuni-Kyo",
+                    "kaniman"
+                  ]
+                },
+                "Akaroa": {
+                  "Areas": [
+                    "Kan Muyu",
+                    "Heijo - kyo",
+                    "Higashimuko",
+                    "Hano",
+                    "Takojizo"
+                  ]
+                },
+                "Timaru": {
+                  "Areas": [
+                    "Kan Muyu",
+                    "Heijo - kyo",
+                    "Higashimuko",
+                    "Hano",
+                    "Takojizo"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "South America": {
+      "countries": {
+        "Brazil": {
+          "states": {
+            "Acre": {
+              "cities": {
+                "Rio Branco": {
+                  "Areas": [
+                    "El-Shaikh El-Shafei",
+                    "Kasr Al Hager",
+                    "Al Anai",
+                    "Sok Al Khamies",
+                    "Talat Harb"
+                  ]
+                },
+                "Porto Walter": {
+                  "Areas": [
+                    "Baksear",
+                    "Sangk",
+                    "Al Mabed ",
+                    "El Gaish",
+                    "Hasan Kassim"
+                  ]
+                },
+                "Xapuri": {
+                  "Areas": [
+                    "Sabry",
+                    " Ragaei",
+                    "Om Sabir",
+                    "Shabrawyy",
+                    "Gamal Al zahabi"
+                  ]
+                },
+                "Feijo": {
+                  "Areas": [
+                    "Naga Al Shamnay kha",
+                    "Aswan Al Jazat",
+                    "Aswan Al jazwari"
+                  ]
+                },
+                "Assis Brazil": {
+                  "Areas": [
+                    "Beit el-Wali",
+                    "Kalabsha Temple",
+                    "Kiosk of Qertassi",
+                    "Khairpur Tamewali"
+                  ]
+                }
+              }
+            },
+            "Amazonas": {
+              "cities": {
+                "Manaus": {
+                  "Areas": ["kawas", "Manna ", "Ziarat", "Kuchlak", "Dagari"]
+                },
+                "Humaita": {
+                  "Areas": [
+                    "Gawadar Beach",
+                    "JanAbad",
+                    "Shambe Ismail",
+                    "High Rise Commercial Zone",
+                    "Finance Trade Business Avenue"
+                  ]
+                },
+                "Benjamin Constant": {
+                  "Areas": [
+                    "Lalbeg",
+                    "Kili Mahbub",
+                    "Askan Mandau",
+                    "Killi Abdul Rahim",
+                    "Killi Malik Ghulam Jilani"
+                  ]
+                },
+                "Carauari": {
+                  "Areas": [
+                    "Wana Road",
+                    "Zhob Lodges",
+                    "Appozai Road",
+                    "New Zhob salami",
+                    "Kisa"
+                  ]
+                },
+                "Labrea": {
+                  "Areas": [
+                    "Dehpal",
+                    "Gulshan Coloney",
+                    "Mir Chakir Road",
+                    "Sibi Cantonment",
+                    "Sibi Ijtema ghaa"
+                  ]
+                }
+              }
+            },
+            "Ceara": {
+              "cities": {
+                "Fortaleza": {
+                  "Areas": ["Baldia", "Korangi", "Jamshed", "Gulberg", "Kemari"]
+                },
+                "Sobral": {
+                  "Areas": [
+                    "Shora Goth",
+                    "Kira Kahan Solangi",
+                    "Shahi Bazar",
+                    "Doctor Coloney",
+                    "Tando Jahanian"
+                  ]
+                },
+                "Aracati": {
+                  "Areas": [
+                    "jara wah",
+                    "zaman goth",
+                    "Mahar Wada",
+                    "Relan",
+                    "Ali Goharabad"
+                  ]
+                },
+                "Pacajus": {
+                  "Areas": [
+                    "Rohri",
+                    "New Sukkur",
+                    "Saleh Pat",
+                    "Sukkur City",
+                    "Pano Aqil"
+                  ]
+                },
+                "Aquiraz": {
+                  "Areas": [
+                    "Talukas",
+                    "Garhi khairo",
+                    "Thul",
+                    "Kandhkote",
+                    "Kashmore"
+                  ]
+                }
+              }
+            },
+            "Para": {
+              "cities": {
+                "Belem": {
+                  "Areas": [
+                    "Chamkani",
+                    "Shah Alam ",
+                    "Mathra",
+                    "Badbher",
+                    "Peshtakhara"
+                  ]
+                },
+                "Obidos": {
+                  "Areas": [
+                    "Ghaznavi Coloney",
+                    "Guli Bagh",
+                    "Korangh",
+                    "Jan Abad",
+                    "Baghdada"
+                  ]
+                },
+                "Benevides": {
+                  "Areas": [
+                    "Habib Ullah Coloney",
+                    "Mochi Coloney",
+                    "Gansen-ji",
+                    "Bilal Town",
+                    "Jinnahabad"
+                  ]
+                },
+                "Santarem": {
+                  "Areas": [
+                    "Bahadar Kot",
+                    "Happy Valley",
+                    "Jangal Khel",
+                    "MainKhel Bazar",
+                    "Sabzi Mandi"
+                  ]
+                },
+                "Capanema": {
+                  "Areas": [
+                    "Hanif Town",
+                    "Basti Maheer",
+                    "Imamia Coloney",
+                    "Laghari Gate",
+                    "Hathee Park"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "New Zealand": {
+          "states": {
+            "Northland": {
+              "cities": {
+                "Kerikeri": {
+                  "Areas": [
+                    "Wakamatsu",
+                    "Machikita",
+                    "Kouya",
+                    "Kouzashi",
+                    "Monden"
+                  ]
+                },
+                "Wahangarei": {
+                  "Areas": [
+                    "Hobara",
+                    "Yanagawa",
+                    "Tsukidate",
+                    "Ryōzen",
+                    "Marumori"
+                  ]
+                },
+                "Waipu": {
+                  "Areas": ["Taira", "Ogawa", "Yoshima", "Tabito", "Kawamae"]
+                },
+                "Dargaville": {
+                  "Areas": ["Tohku", "Abukuma", "Banestu", "Suigun", "Yatagawa"]
+                },
+                "Mangawhai": {
+                  "Areas": [
+                    "MT Azuma",
+                    "Sakura",
+                    "Takyu Onsen",
+                    "Iwakai",
+                    "Sendai"
+                  ]
+                }
+              }
+            },
+            "Auckland": {
+              "cities": {
+                "Waiuku": {
+                  "Areas": [
+                    "Shijonawate-shi",
+                    "Daito-shi ",
+                    "Takyu Onsen",
+                    "IaKoma",
+                    "Sominodo"
+                  ]
+                },
+                "Warkworth": {
+                  "Areas": [
+                    "Ozaki",
+                    "Tottorinosho",
+                    "Hakotsukuri",
+                    "Izumi-Tottori",
+                    "Yamanakadani"
+                  ]
+                },
+                "Parakai": {
+                  "Areas": [
+                    "Kaihan",
+                    "Kayashima",
+                    "Furkawabashi",
+                    "Nagahori",
+                    "Kadomaminami"
+                  ]
+                },
+                "Maraetai": {
+                  "Areas": [
+                    "Koko-Gawa",
+                    "Senko-ji",
+                    "Kumeda",
+                    "Haruki",
+                    "Takojizo"
+                  ]
+                },
+                "Helensville": {
+                  "Areas": [
+                    "Koko-Gawa",
+                    "Senko-ji",
+                    "Kumeda",
+                    "Haruki",
+                    "Takojizo"
+                  ]
+                }
+              }
+            },
+            "Marlborough": {
+              "cities": {
+                "Picton": {
+                  "Areas": [
+                    "Koda",
+                    "Midori ",
+                    "Mukaihara",
+                    "Youshida",
+                    "Yachiyo"
+                  ]
+                },
+                "Blenheim": {
+                  "Areas": ["Ono", "Miyajima", "Hiroden", "Miyajima", "Gujo"]
+                },
+                "Havelock": {
+                  "Areas": [
+                    "Sannose ",
+                    "Kurahashi-cho",
+                    "Nagasako",
+                    "Romantic Beach Karuga",
+                    "Kajigahama Beach"
+                  ]
+                },
+                "Rai Valley": {
+                  "Areas": ["Funo", "Kimita", "Sakugi", "Kou", "Kisa"]
+                },
+                "Seddon": {
+                  "Areas": [
+                    "yasaka-kyo",
+                    "Jayaku-iwa",
+                    "Atata-jima",
+                    "Mikura-dake",
+                    "Mikura-da"
+                  ]
+                }
+              }
+            },
+            "Tasman": {
+              "cities": {
+                "Nelson": {
+                  "Areas": [
+                    "Nagara river",
+                    "Yokoya ",
+                    "Tarumi",
+                    "Meiji",
+                    "Tokaido"
+                  ]
+                },
+                "Motueka": {
+                  "Areas": [
+                    "Tokaido",
+                    "Takenohana ",
+                    "Hiroden",
+                    "Miyajima",
+                    "Gujo"
+                  ]
+                },
+                "Collingwood": {
+                  "Areas": ["Kiso ", "Toki", "Chuo", "Cuhkyo", "Kajigahama"]
+                },
+                "Upper Moutere": {
+                  "Areas": [
+                    "Ohara",
+                    "Tenreyo",
+                    "Koizimi",
+                    "Ichinokura",
+                    "Ikeda"
+                  ]
+                },
+                "Mapua": {
+                  "Areas": ["Tokai", "Nakanihon", "Chubu", "Eisia", "Mikura-da"]
+                }
+              }
+            },
+            "Canterbury": {
+              "cities": {
+                "Christchurch": {
+                  "Areas": [
+                    "Omoto",
+                    "Kanbayashi ",
+                    "Gunze",
+                    "Changshu",
+                    "Sominodo"
+                  ]
+                },
+                "Lincoln": {
+                  "Areas": ["Miki", "Yanko", "Kasa", "Sanin", "Gujo"]
+                },
+                "Hanmer Springs": {
+                  "Areas": [
+                    "Jori-ji",
+                    "Kizu",
+                    "Gansen-ji",
+                    "Kuni-Kyo",
+                    "kaniman"
+                  ]
+                },
+                "Akaroa": {
+                  "Areas": [
+                    "Kan Muyu",
+                    "Heijo - kyo",
+                    "Higashimuko",
+                    "Hano",
+                    "Takojizo"
+                  ]
+                },
+                "Timaru": {
+                  "Areas": [
+                    "Kan Muyu",
+                    "Heijo - kyo",
+                    "Higashimuko",
+                    "Hano",
+                    "Takojizo"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "North America": {
+      "countries": {
+        "USA": {
+          "states": {
+            "New York": {
+              "cities": {
+                "Albany": {
+                  "Areas": [
+                    "El-Shaikh El-Shafei",
+                    "Kasr Al Hager",
+                    "Al Anai",
+                    "Sok Al Khamies",
+                    "Talat Harb"
+                  ]
+                },
+                "Rochester": {
+                  "Areas": [
+                    "Baksear",
+                    "Sangk",
+                    "Al Mabed ",
+                    "El Gaish",
+                    "Hasan Kassim"
+                  ]
+                },
+                "Buffalo": {
+                  "Areas": [
+                    "Sabry",
+                    " Ragaei",
+                    "Om Sabir",
+                    "Shabrawyy",
+                    "Gamal Al zahabi"
+                  ]
+                },
+                "Syracuse": {
+                  "Areas": [
+                    "Naga Al Shamnay kha",
+                    "Aswan Al Jazat",
+                    "Aswan Al jazwari"
+                  ]
+                },
+                "Yonkers": {
+                  "Areas": [
+                    "Beit el-Wali",
+                    "Kalabsha Temple",
+                    "Kiosk of Qertassi",
+                    "Khairpur Tamewali"
+                  ]
+                }
+              }
+            },
+            "Nevada": {
+              "cities": {
+                "Las Vegas": {
+                  "Areas": ["kawas", "Manna ", "Ziarat", "Kuchlak", "Dagari"]
+                },
+                "Reno": {
+                  "Areas": [
+                    "Gawadar Beach",
+                    "JanAbad",
+                    "Shambe Ismail",
+                    "High Rise Commercial Zone",
+                    "Finance Trade Business Avenue"
+                  ]
+                },
+                "Carson City": {
+                  "Areas": [
+                    "Lalbeg",
+                    "Kili Mahbub",
+                    "Askan Mandau",
+                    "Killi Abdul Rahim",
+                    "Killi Malik Ghulam Jilani"
+                  ]
+                },
+                "Elko": {
+                  "Areas": [
+                    "Wana Road",
+                    "Zhob Lodges",
+                    "Appozai Road",
+                    "New Zhob salami",
+                    "Kisa"
+                  ]
+                },
+                "Mesquite": {
+                  "Areas": [
+                    "Dehpal",
+                    "Gulshan Coloney",
+                    "Mir Chakir Road",
+                    "Sibi Cantonment",
+                    "Sibi Ijtema ghaa"
+                  ]
+                }
+              }
+            },
+            "Louiseville": {
+              "cities": {
+                "Adelaide": {
+                  "Areas": ["Baldia", "Korangi", "Jamshed", "Gulberg", "Kemari"]
+                },
+                "Lexington": {
+                  "Areas": [
+                    "Shora Goth",
+                    "Kira Kahan Solangi",
+                    "Shahi Bazar",
+                    "Doctor Coloney",
+                    "Tando Jahanian"
+                  ]
+                },
+                "Owensboro": {
+                  "Areas": [
+                    "jara wah",
+                    "zaman goth",
+                    "Mahar Wada",
+                    "Relan",
+                    "Ali Goharabad"
+                  ]
+                },
+                "Somerset": {
+                  "Areas": [
+                    "Rohri",
+                    "New Sukkur",
+                    "Saleh Pat",
+                    "Sukkur City",
+                    "Pano Aqil"
+                  ]
+                },
+                "Elizabeth": {
+                  "Areas": [
+                    "Talukas",
+                    "Garhi khairo",
+                    "Thul",
+                    "Kandhkote",
+                    "Kashmore"
+                  ]
+                }
+              }
+            },
+            "California": {
+              "cities": {
+                "Los Angeles": {
+                  "Areas": [
+                    "Chamkani",
+                    "Shah Alam ",
+                    "Mathra",
+                    "Badbher",
+                    "Peshtakhara"
+                  ]
+                },
+                "San Francisco": {
+                  "Areas": [
+                    "Ghaznavi Coloney",
+                    "Guli Bagh",
+                    "Korangh",
+                    "Jan Abad",
+                    "Baghdada"
+                  ]
+                },
+                "San Bruno": {
+                  "Areas": [
+                    "Habib Ullah Coloney",
+                    "Mochi Coloney",
+                    "Gansen-ji",
+                    "Bilal Town",
+                    "Jinnahabad"
+                  ]
+                },
+                "Irvine": {
+                  "Areas": [
+                    "Bahadar Kot",
+                    "Happy Valley",
+                    "Jangal Khel",
+                    "MainKhel Bazar",
+                    "Sabzi Mandi"
+                  ]
+                },
+                "San Jose": {
+                  "Areas": [
+                    "Hanif Town",
+                    "Basti Maheer",
+                    "Imamia Coloney",
+                    "Laghari Gate",
+                    "Hathee Park"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "Canada": {
+          "states": {
+            "Alberta": {
+              "cities": {
+                "Edmonton": {
+                  "Areas": [
+                    "Wakamatsu",
+                    "Machikita",
+                    "Kouya",
+                    "Kouzashi",
+                    "Monden"
+                  ]
+                },
+                "Calgary": {
+                  "Areas": [
+                    "Hobara",
+                    "Yanagawa",
+                    "Tsukidate",
+                    "Ryōzen",
+                    "Marumori"
+                  ]
+                },
+                "Red Deer": {
+                  "Areas": ["Taira", "Ogawa", "Yoshima", "Tabito", "Kawamae"]
+                },
+                "Medicine Hat": {
+                  "Areas": ["Tohku", "Abukuma", "Banestu", "Suigun", "Yatagawa"]
+                },
+                "Grande Prairie": {
+                  "Areas": [
+                    "MT Azuma",
+                    "Sakura",
+                    "Takyu Onsen",
+                    "Iwakai",
+                    "Sendai"
+                  ]
+                }
+              }
+            },
+            "Ontario": {
+              "cities": {
+                "Toronto": {
+                  "Areas": [
+                    "Shijonawate-shi",
+                    "Daito-shi ",
+                    "Takyu Onsen",
+                    "IaKoma",
+                    "Sominodo"
+                  ]
+                },
+                "Ottawa": {
+                  "Areas": [
+                    "Ozaki",
+                    "Tottorinosho",
+                    "Hakotsukuri",
+                    "Izumi-Tottori",
+                    "Yamanakadani"
+                  ]
+                },
+                "London": {
+                  "Areas": [
+                    "Kaihan",
+                    "Kayashima",
+                    "Furkawabashi",
+                    "Nagahori",
+                    "Kadomaminami"
+                  ]
+                },
+                "Hamilton": {
+                  "Areas": [
+                    "Koko-Gawa",
+                    "Senko-ji",
+                    "Kumeda",
+                    "Haruki",
+                    "Takojizo"
+                  ]
+                },
+                "Winsdor": {
+                  "Areas": [
+                    "Koko-Gawa",
+                    "Senko-ji",
+                    "Kumeda",
+                    "Haruki",
+                    "Takojizo"
+                  ]
+                }
+              }
+            },
+            "Nova Scotia": {
+              "cities": {
+                "Wolfville": {
+                  "Areas": [
+                    "Koda",
+                    "Midori ",
+                    "Mukaihara",
+                    "Youshida",
+                    "Yachiyo"
+                  ]
+                },
+                "Lunenburg": {
+                  "Areas": ["Ono", "Miyajima", "Hiroden", "Miyajima", "Gujo"]
+                },
+                "Truro": {
+                  "Areas": [
+                    "Sannose ",
+                    "Kurahashi-cho",
+                    "Nagasako",
+                    "Romantic Beach Karuga",
+                    "Kajigahama Beach"
+                  ]
+                },
+                "Antigonish": {
+                  "Areas": ["Funo", "Kimita", "Sakugi", "Kou", "Kisa"]
+                },
+                "Kentville": {
+                  "Areas": [
+                    "yasaka-kyo",
+                    "Jayaku-iwa",
+                    "Atata-jima",
+                    "Mikura-dake",
+                    "Mikura-da"
+                  ]
+                }
+              }
+            },
+            "Quebec": {
+              "cities": {
+                "Montreal": {
+                  "Areas": [
+                    "Nagara river",
+                    "Yokoya ",
+                    "Tarumi",
+                    "Meiji",
+                    "Tokaido"
+                  ]
+                },
+                "Sheerbrooke": {
+                  "Areas": [
+                    "Tokaido",
+                    "Takenohana ",
+                    "Hiroden",
+                    "Miyajima",
+                    "Gujo"
+                  ]
+                },
+                "Levis": {
+                  "Areas": ["Kiso ", "Toki", "Chuo", "Cuhkyo", "Kajigahama"]
+                },
+                "Laval": {
+                  "Areas": [
+                    "Ohara",
+                    "Tenreyo",
+                    "Koizimi",
+                    "Ichinokura",
+                    "Ikeda"
+                  ]
+                },
+                "Saguenay": {
+                  "Areas": ["Tokai", "Nakanihon", "Chubu", "Eisia", "Mikura-da"]
+                }
+              }
+            },
+            "British Columbia": {
+              "cities": {
+                "Vancouver": {
+                  "Areas": [
+                    "Omoto",
+                    "Kanbayashi ",
+                    "Gunze",
+                    "Changshu",
+                    "Sominodo"
+                  ]
+                },
+                "Victoria": {
+                  "Areas": ["Miki", "Yanko", "Kasa", "Sanin", "Gujo"]
+                },
+                "Kelowna": {
+                  "Areas": [
+                    "Jori-ji",
+                    "Kizu",
+                    "Gansen-ji",
+                    "Kuni-Kyo",
+                    "kaniman"
+                  ]
+                },
+                "Surrey": {
+                  "Areas": [
+                    "Kan Muyu",
+                    "Heijo - kyo",
+                    "Higashimuko",
+                    "Hano",
+                    "Takojizo"
+                  ]
+                },
+                "Burnaby": {
+                  "Areas": [
+                    "Kan Muyu",
+                    "Heijo - kyo",
+                    "Higashimuko",
+                    "Hano",
+                    "Takojizo"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Europe": {
+      "countries": {
+        "UK": {
+          "states": {
+            "England": {
+              "cities": {
+                "London": {
+                  "Areas": [
+                    "El-Shaikh El-Shafei",
+                    "Kasr Al Hager",
+                    "Al Anai",
+                    "Sok Al Khamies",
+                    "Talat Harb"
+                  ]
+                },
+                "Birmingham": {
+                  "Areas": [
+                    "Baksear",
+                    "Sangk",
+                    "Al Mabed ",
+                    "El Gaish",
+                    "Hasan Kassim"
+                  ]
+                },
+                "Manchester": {
+                  "Areas": [
+                    "Sabry",
+                    " Ragaei",
+                    "Om Sabir",
+                    "Shabrawyy",
+                    "Gamal Al zahabi"
+                  ]
+                },
+                "Liverpool": {
+                  "Areas": [
+                    "Naga Al Shamnay kha",
+                    "Aswan Al Jazat",
+                    "Aswan Al jazwari"
+                  ]
+                },
+                "Bristol": {
+                  "Areas": [
+                    "Beit el-Wali",
+                    "Kalabsha Temple",
+                    "Kiosk of Qertassi",
+                    "Khairpur Tamewali"
+                  ]
+                }
+              }
+            },
+            "Scotland": {
+              "cities": {
+                "Glasgow": {
+                  "Areas": ["kawas", "Manna ", "Ziarat", "Kuchlak", "Dagari"]
+                },
+                "Edinburgh": {
+                  "Areas": [
+                    "Gawadar Beach",
+                    "JanAbad",
+                    "Shambe Ismail",
+                    "High Rise Commercial Zone",
+                    "Finance Trade Business Avenue"
+                  ]
+                },
+                "Dundee": {
+                  "Areas": [
+                    "Lalbeg",
+                    "Kili Mahbub",
+                    "Askan Mandau",
+                    "Killi Abdul Rahim",
+                    "Killi Malik Ghulam Jilani"
+                  ]
+                },
+                "Perth": {
+                  "Areas": [
+                    "Wana Road",
+                    "Zhob Lodges",
+                    "Appozai Road",
+                    "New Zhob salami",
+                    "Kisa"
+                  ]
+                },
+                "Sterling": {
+                  "Areas": [
+                    "Dehpal",
+                    "Gulshan Coloney",
+                    "Mir Chakir Road",
+                    "Sibi Cantonment",
+                    "Sibi Ijtema ghaa"
+                  ]
+                }
+              }
+            },
+            "Ireland": {
+              "cities": {
+                "Dublin": {
+                  "Areas": ["Baldia", "Korangi", "Jamshed", "Gulberg", "Kemari"]
+                },
+                "Galway": {
+                  "Areas": [
+                    "Shora Goth",
+                    "Kira Kahan Solangi",
+                    "Shahi Bazar",
+                    "Doctor Coloney",
+                    "Tando Jahanian"
+                  ]
+                },
+                "Cork": {
+                  "Areas": [
+                    "jara wah",
+                    "zaman goth",
+                    "Mahar Wada",
+                    "Relan",
+                    "Ali Goharabad"
+                  ]
+                },
+                "Limerick": {
+                  "Areas": [
+                    "Rohri",
+                    "New Sukkur",
+                    "Saleh Pat",
+                    "Sukkur City",
+                    "Pano Aqil"
+                  ]
+                },
+                "Waterford": {
+                  "Areas": [
+                    "Talukas",
+                    "Garhi khairo",
+                    "Thul",
+                    "Kandhkote",
+                    "Kashmore"
+                  ]
+                }
+              }
+            },
+            "Wales": {
+              "cities": {
+                "Cardiff": {
+                  "Areas": [
+                    "Chamkani",
+                    "Shah Alam ",
+                    "Mathra",
+                    "Badbher",
+                    "Peshtakhara"
+                  ]
+                },
+                "Newport": {
+                  "Areas": [
+                    "Ghaznavi Coloney",
+                    "Guli Bagh",
+                    "Korangh",
+                    "Jan Abad",
+                    "Baghdada"
+                  ]
+                },
+                "Bangor": {
+                  "Areas": [
+                    "Habib Ullah Coloney",
+                    "Mochi Coloney",
+                    "Gansen-ji",
+                    "Bilal Town",
+                    "Jinnahabad"
+                  ]
+                },
+                "Saint Asaph": {
+                  "Areas": [
+                    "Bahadar Kot",
+                    "Happy Valley",
+                    "Jangal Khel",
+                    "MainKhel Bazar",
+                    "Sabzi Mandi"
+                  ]
+                },
+                "Wrexham": {
+                  "Areas": [
+                    "Hanif Town",
+                    "Basti Maheer",
+                    "Imamia Coloney",
+                    "Laghari Gate",
+                    "Hathee Park"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "Netherlands": {
+          "states": {
+            "Zeeland": {
+              "cities": {
+                "Middelburg": {
+                  "Areas": [
+                    "Wakamatsu",
+                    "Machikita",
+                    "Kouya",
+                    "Kouzashi",
+                    "Monden"
+                  ]
+                },
+                "Vissingen": {
+                  "Areas": [
+                    "Hobara",
+                    "Yanagawa",
+                    "Tsukidate",
+                    "Ryōzen",
+                    "Marumori"
+                  ]
+                },
+                "Terneuzen": {
+                  "Areas": ["Taira", "Ogawa", "Yoshima", "Tabito", "Kawamae"]
+                },
+                "Veere": {
+                  "Areas": ["Tohku", "Abukuma", "Banestu", "Suigun", "Yatagawa"]
+                },
+                "Borsele": {
+                  "Areas": [
+                    "MT Azuma",
+                    "Sakura",
+                    "Takyu Onsen",
+                    "Iwakai",
+                    "Sendai"
+                  ]
+                }
+              }
+            },
+            "Friesland": {
+              "cities": {
+                "Leeuwarden": {
+                  "Areas": [
+                    "Shijonawate-shi",
+                    "Daito-shi ",
+                    "Takyu Onsen",
+                    "IaKoma",
+                    "Sominodo"
+                  ]
+                },
+                "Sneek": {
+                  "Areas": [
+                    "Ozaki",
+                    "Tottorinosho",
+                    "Hakotsukuri",
+                    "Izumi-Tottori",
+                    "Yamanakadani"
+                  ]
+                },
+                "Dokkum": {
+                  "Areas": [
+                    "Kaihan",
+                    "Kayashima",
+                    "Furkawabashi",
+                    "Nagahori",
+                    "Kadomaminami"
+                  ]
+                },
+                "Franeker": {
+                  "Areas": [
+                    "Koko-Gawa",
+                    "Senko-ji",
+                    "Kumeda",
+                    "Haruki",
+                    "Takojizo"
+                  ]
+                },
+                "Bolsward": {
+                  "Areas": [
+                    "Koko-Gawa",
+                    "Senko-ji",
+                    "Kumeda",
+                    "Haruki",
+                    "Takojizo"
+                  ]
+                }
+              }
+            },
+            "Limburg": {
+              "cities": {
+                "Maastricht": {
+                  "Areas": [
+                    "Koda",
+                    "Midori ",
+                    "Mukaihara",
+                    "Youshida",
+                    "Yachiyo"
+                  ]
+                },
+                "Venlo": {
+                  "Areas": ["Ono", "Miyajima", "Hiroden", "Miyajima", "Gujo"]
+                },
+                "Roemond": {
+                  "Areas": [
+                    "Sannose ",
+                    "Kurahashi-cho",
+                    "Nagasako",
+                    "Romantic Beach Karuga",
+                    "Kajigahama Beach"
+                  ]
+                },
+                "Kerkrade": {
+                  "Areas": ["Funo", "Kimita", "Sakugi", "Kou", "Kisa"]
+                },
+                "Weert": {
+                  "Areas": [
+                    "yasaka-kyo",
+                    "Jayaku-iwa",
+                    "Atata-jima",
+                    "Mikura-dake",
+                    "Mikura-da"
+                  ]
+                }
+              }
+            },
+            "North Holland": {
+              "cities": {
+                "Amsterdam": {
+                  "Areas": [
+                    "Nagara river",
+                    "Yokoya ",
+                    "Tarumi",
+                    "Meiji",
+                    "Tokaido"
+                  ]
+                },
+                "Haarlem": {
+                  "Areas": [
+                    "Tokaido",
+                    "Takenohana ",
+                    "Hiroden",
+                    "Miyajima",
+                    "Gujo"
+                  ]
+                },
+                "Alkmaar": {
+                  "Areas": ["Kiso ", "Toki", "Chuo", "Cuhkyo", "Kajigahama"]
+                },
+                "Hoorn": {
+                  "Areas": [
+                    "Ohara",
+                    "Tenreyo",
+                    "Koizimi",
+                    "Ichinokura",
+                    "Ikeda"
+                  ]
+                },
+                "Den Helder": {
+                  "Areas": ["Tokai", "Nakanihon", "Chubu", "Eisia", "Mikura-da"]
+                }
+              }
+            },
+            "South": {
+              "cities": {
+                "Vancouver": {
+                  "Areas": [
+                    "Omoto",
+                    "Kanbayashi ",
+                    "Gunze",
+                    "Changshu",
+                    "Sominodo"
+                  ]
+                },
+                "Victoria": {
+                  "Areas": ["Miki", "Yanko", "Kasa", "Sanin", "Gujo"]
+                },
+                "Kelowna": {
+                  "Areas": [
+                    "Jori-ji",
+                    "Kizu",
+                    "Gansen-ji",
+                    "Kuni-Kyo",
+                    "kaniman"
+                  ]
+                },
+                "Surrey": {
+                  "Areas": [
+                    "Kan Muyu",
+                    "Heijo - kyo",
+                    "Higashimuko",
+                    "Hano",
+                    "Takojizo"
+                  ]
+                },
+                "Burnaby": {
+                  "Areas": [
+                    "Kan Muyu",
+                    "Heijo - kyo",
+                    "Higashimuko",
+                    "Hano",
+                    "Takojizo"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Antarctica": {}
+  }
+}
