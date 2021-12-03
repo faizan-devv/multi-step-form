@@ -134,17 +134,65 @@ const Form = () => {
       <div className="MultiStepForm">
         <SelectBox settrue={handleNext} list={continents} name="continent" />
         {steps.continent ? (
-          <SelectBox settrue={handleNext} list={countries} name="country" />
-        ) : null}
+          <SelectBox
+            settrue={handleNext}
+            list={countries}
+            name="country"
+            disabled={false}
+          />
+        ) : (
+          <SelectBox
+            settrue={handleNext}
+            list={countries}
+            name="country"
+            disabled={true}
+          />
+        )}
         {steps.continent && steps.country ? (
-          <SelectBox settrue={handleNext} list={states} name="state" />
-        ) : null}
+          <SelectBox
+            settrue={handleNext}
+            list={states}
+            name="state"
+            disabled={false}
+          />
+        ) : (
+          <SelectBox
+            settrue={handleNext}
+            list={states}
+            name="state"
+            disabled={true}
+          />
+        )}
         {steps.continent && steps.country && steps.state ? (
-          <SelectBox settrue={handleNext} list={cities} name="city" />
-        ) : null}
+          <SelectBox
+            settrue={handleNext}
+            list={cities}
+            name="city"
+            disabled={false}
+          />
+        ) : (
+          <SelectBox
+            settrue={handleNext}
+            list={cities}
+            name="city"
+            disabled={true}
+          />
+        )}
         {steps.continent && steps.country && steps.state && steps.city ? (
-          <SelectBox settrue={handleNext} list={areas} name="area" />
-        ) : null}
+          <SelectBox
+            settrue={handleNext}
+            list={areas}
+            name="area"
+            disabled={false}
+          />
+        ) : (
+          <SelectBox
+            settrue={handleNext}
+            list={areas}
+            name="area"
+            disabled={true}
+          />
+        )}
       </div>
     </div>
   );
